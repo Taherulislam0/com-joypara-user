@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761937600950",
+    "project_id": "joypara-user-app",
+    "storage_bucket": "joypara-user-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761937600950:android:19ac3436343f5c6393a117",
+        "android_client_info": {
+          "package_name": "com.joypara.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761937600950-ne6043qcd0c42bsqobsj21lpcr93dpk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joypara.user",
+            "certificate_hash": "9c70fa58be1eebce6ed893882edd5177f73ae0b8"
+          }
+        },
+        {
+          "client_id": "761937600950-bd9j4dhu0f28k09ppdpggdrhtad5pnbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwEjRnBB2UMMGHva7KX5YtmNCJfOazC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761937600950-bd9j4dhu0f28k09ppdpggdrhtad5pnbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
